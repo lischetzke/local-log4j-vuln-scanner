@@ -46,6 +46,17 @@ var vulnVersions = map[string]string{
 	"964fa0bf8c045097247fa0c973e0c167df08720409fd9e44546e0ceda3925f3e": "log4j 2.0.1",         // JndiLookup.class
 	"9626798cce6abd0f2ffef89f1a3d0092a60d34a837a02bbe571dbe00236a2c8c": "log4j 2.0.2",         // JndiLookup.class
 	"fd6c63c11f7a6b52eff04be1de3477c9ddbbc925022f7216320e6db93f1b7d29": "log4j 2.0",           // JndiLookup.class
+	"a768e5383990b512f9d4f97217eda94031c2fa4aea122585f5a475ab99dc7307": "log4j 2.1-2.3",       // JndiLookup.class
+	"a534961bbfce93966496f86c9314f46939fd082bb89986b48b7430c3bea903f7": "log4j 2.4-2.5",       // JndiLookup.class
+	"e8ffed196e04f81b015f847d4ec61f22f6731c11b5a21b1cfc45ccbc58b8ea45": "log4j 2.6-2.6.2",     // JndiLookup.class
+	"cee2305065bb61d434cdb45cfdaa46e7da148e5c6a7678d56f3e3dc8d7073eae": "log4j 2.7",           // JndiLookup.class
+	"66c89e2d5ae674641138858b571e65824df6873abb1677f7b2ef5c0dd4dbc442": "log4j 2.8",           // JndiLookup.class
+	"d4ec57440cd6db6eaf6bcb6b197f1cbaf5a3e26253d59578d51db307357cbf15": "log4j 2.8.2",         // JndiLookup.class
+	"0f038a1e0aa0aff76d66d1440c88a2b35a3d023ad8b2e3bac8e25a3208499f7e": "log4j 2.9.0-2.11.2",  // JndiLookup.class
+	"5c104d16ff9831b456e4d7eaf66bcf531f086767782d08eece3fb37e40467279": "log4j 2.12.0-2.12.1", // JndiLookup.class
+	"2b32bfc0556ea59307b9b2fde75b6dfbb5bf4f1d008d1402bc9a2357d8a8c61f": "log4j 2.13.0-2.13.3", // JndiLookup.class
+	"ad5acfcbcb02f849ab695276285b6a5aef5f187b4d36b2159439084f4c732a4b": "log4j 2.13-3-debian", // JndiLookup.class
+	"84057480ba7da6fb6d9ea50c53a00848315833c1f34bf8f4a47f11a14499ae3f": "log4j 2.14.0-2.15.0", // JndiLookup.class
 	"1584b839cfceb33a372bb9e6f704dcea9701fa810a9ba1ad3961615a5b998c32": "log4j 2.7-2.8.1",     // JndiManager.class
 	"1fa92c00fa0b305b6bbe6e2ee4b012b588a906a20a05e135cbe64c9d77d676de": "log4j 2.12.0-2.12.1", // JndiManager.class
 	"293d7e83d4197f0496855f40a7745cfcdd10026dc057dfc1816de57295be88a6": "log4j 2.9.0-2.11.2",  // JndiManager.class
@@ -53,6 +64,7 @@ var vulnVersions = map[string]string{
 	"6540d5695ddac8b0a343c2e91d58316cfdbfdc5b99c6f3f91bc381bc6f748246": "log4j 2.6-2.6.2",     // JndiManager.class
 	"764b06686dbe06e3d5f6d15891250ab04073a0d1c357d114b7365c70fa8a7407": "log4j 2.8.2",         // JndiManager.class
 	"77323460255818f4cbfe180141d6001bfb575b429e00a07cbceabd59adf334d6": "log4j 2.14.0-2.14.1", // JndiManager.class
+	"db07ef1ea174e000b379732681bd835cfede648a7971bf4e9a0d31981582d69e": "log4j 2.15.0",        // JndiManager.class
 	"ae950f9435c0ef3373d4030e7eff175ee11044e584b7f205b7a9804bbe795f9c": "log4j 2.1-2.3",       // JndiManager.class
 	"c3e95da6542945c1a096b308bf65bbd7fcb96e3d201e5a2257d85d4dedc6a078": "log4j 2.13.0-2.13.3", // JndiManager.class
 }
